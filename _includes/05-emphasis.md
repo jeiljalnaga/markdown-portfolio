@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* **Richest** man in the world
+* <del>Second</del> FIRST MAN ON MARS
+* Defender of the innocent
+* Avenger
